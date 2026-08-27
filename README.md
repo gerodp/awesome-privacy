@@ -806,6 +806,8 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 - [🤖](#icons) [K9](https://k9mail.app/) - Open Source Email App for Android.
 
 #### Desktop
+- [EmailOps](https://github.com/emailops/emailops) - Email client whose AI features (chat over your inbox, drafts, classification) run locally, so mail is never sent to a third-party model. macOS, Windows and Linux (Apache-2.0).
+
 - [Thunderbird](https://www.thunderbird.net) - A free customizable open source email client.
 
 ### Email Alias Services (Anonymous Forwarding)
